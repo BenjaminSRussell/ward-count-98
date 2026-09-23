@@ -780,3 +780,6 @@
 {"n":780,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Mast yard. Nobody past the east curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":781,"kind":"place","name":"Mast yard east curb","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mast yard east curb. Nia keeps the rope for the start. 8 steps, weave on the left lane, open."}
 {"n":782,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east curb. weave left open. 2 steps. The rope stays for the start."}
+{"n":783,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Mast yard. Nobody past the east curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":784,"kind":"place","name":"Mast yard east curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard east curb. Ivo keeps the rope for the start. 4 steps, weave on the left lane, open."}
+{"n":785,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east curb. weave left open. 5 steps. The rope stays for the start."}
