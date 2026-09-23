@@ -983,3 +983,6 @@
 {"n":983,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east curb. weave left open. 7 steps. The shutter stays for the start."}
 {"n":984,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at the pier. Nobody past the east curb. We start in 8 steps. Weave on the left lane, open."}
 {"n":985,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier east curb. Nia keeps the shutter for the start. 2 steps, weave on the left lane, open."}
+{"n":986,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east curb. weave left open. 3 steps. The shutter stays for the start."}
+{"n":987,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at the pier. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":988,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier east curb. Ivo keeps the shutter for the start. 5 steps, weave on the left lane, open."}
