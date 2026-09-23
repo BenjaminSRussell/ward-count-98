@@ -518,3 +518,6 @@
 {"n":518,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Switchyard. Nobody past the east curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":519,"kind":"place","name":"Switchyard east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east curb. Bess keeps the badge door for the start. 4 steps, weave on the left lane, open."}
 {"n":520,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east curb. weave left open. 5 steps. The badge door stays for the start."}
+{"n":521,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at Drydock. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":522,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east curb. Matt keeps the badge door for the start. 7 steps, weave on the left lane, open."}
+{"n":523,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east curb. weave left open. 8 steps. The badge door stays for the start."}
