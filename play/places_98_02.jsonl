@@ -672,3 +672,6 @@
 {"n":672,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north curb. weave left open. 2 steps. The rebar stays for the start."}
 {"n":673,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Clinic roof. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":674,"kind":"place","name":"Clinic roof north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof north curb. Matt keeps the rebar for the start. 4 steps, weave on the left lane, open."}
+{"n":675,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north curb. weave left open. 5 steps. The rebar stays for the start."}
+{"n":676,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Clinic roof. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":677,"kind":"place","name":"Clinic roof north curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north curb. Nia keeps the rebar for the start. 7 steps, weave on the left lane, open."}
