@@ -283,3 +283,6 @@
 {"n":283,"kind":"place","name":"the Lot west mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west mouth. Bess keeps the crate for the start. 8 steps, weave on the left lane, open."}
 {"n":284,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west mouth. weave left open. 2 steps. The crate stays for the start."}
 {"n":285,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Stockyard fence. Nobody past the west mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":286,"kind":"place","name":"Stockyard fence west mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence west mouth. Matt keeps the crate for the start. 4 steps, weave on the left lane, open."}
+{"n":287,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west mouth. weave left open. 5 steps. The crate stays for the start."}
+{"n":288,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Stockyard fence. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
