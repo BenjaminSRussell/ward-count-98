@@ -250,3 +250,6 @@
 {"n":250,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at the Lot. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":251,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot north curb. Bess keeps the crate for the start. 8 steps, weave on the left lane, open."}
 {"n":252,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north curb. weave left open. 2 steps. The crate stays for the start."}
+{"n":253,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Stockyard fence. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":254,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north curb. Matt keeps the crate for the start. 4 steps, weave on the left lane, open."}
+{"n":255,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north curb. weave left open. 5 steps. The crate stays for the start."}
