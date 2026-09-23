@@ -422,3 +422,6 @@
 {"n":422,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north curb. weave left open. 3 steps. The badge door stays for the start."}
 {"n":423,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at the Lot. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":424,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north curb. Ivo keeps the badge door for the start. 5 steps, weave on the left lane, open."}
+{"n":425,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north curb. weave left open. 6 steps. The badge door stays for the start."}
+{"n":426,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at the Lot. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":427,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot north curb. Bess keeps the badge door for the start. 8 steps, weave on the left lane, open."}
