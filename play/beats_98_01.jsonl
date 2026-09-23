@@ -626,3 +626,6 @@
 {"n":626,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Mast yard. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":627,"kind":"place","name":"Mast yard east curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard east curb. Bess keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
 {"n":628,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east curb. weave left open. 8 steps. The radio coil stays for the start."}
+{"n":629,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Last Light. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":630,"kind":"place","name":"Last Light east curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light east curb. Matt keeps the radio coil for the start. 3 steps, weave on the left lane, open."}
+{"n":631,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east curb. weave left open. 4 steps. The radio coil stays for the start."}
