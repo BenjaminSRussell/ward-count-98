@@ -40,3 +40,6 @@
 {"n":40,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east curb. weave left open. 8 steps. The shutter stays for the start."}
 {"n":41,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Ward gate. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":42,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate east curb. Matt keeps the awning for the start. 3 steps, weave on the left lane, open."}
+{"n":43,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east curb. weave left open. 4 steps. The awning stays for the start."}
+{"n":44,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at Ward gate. Nobody past the east curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":45,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate east curb. Nia keeps the awning for the start. 6 steps, weave on the left lane, open."}
