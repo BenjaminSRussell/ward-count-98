@@ -386,3 +386,6 @@
 {"n":386,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof east mouth. Matt keeps the crate for the start. 4 steps, weave on the left lane, open."}
 {"n":387,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east mouth. weave left open. 5 steps. The crate stays for the start."}
 {"n":388,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Clinic roof. Nobody past the east mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":389,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof east mouth. Nia keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":390,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east mouth. weave left open. 8 steps. The crate stays for the start."}
+{"n":391,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Clinic roof. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
