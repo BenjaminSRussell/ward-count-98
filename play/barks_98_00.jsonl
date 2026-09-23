@@ -604,3 +604,6 @@
 {"n":604,"kind":"place","name":"the Underpass east curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass east curb. Ivo keeps the rebar for the start. 6 steps, weave on the left lane, open."}
 {"n":605,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east curb. weave left open. 7 steps. The rebar stays for the start."}
 {"n":606,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the Underpass. Nobody past the east curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":607,"kind":"place","name":"the Underpass east curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass east curb. Bess keeps the rebar for the start. 2 steps, weave on the left lane, open."}
+{"n":608,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east curb. weave left open. 3 steps. The rebar stays for the start."}
+{"n":609,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Mast yard. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
