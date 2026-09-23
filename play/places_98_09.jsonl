@@ -410,3 +410,6 @@
 {"n":410,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east mouth. weave left open. 6 steps. The drum stays for the start."}
 {"n":411,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Switchyard. Nobody past the east mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":412,"kind":"place","name":"Switchyard east mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard east mouth. Ivo keeps the drum for the start. 8 steps, weave on the left lane, open."}
+{"n":413,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east mouth. weave left open. 2 steps. The drum stays for the start."}
+{"n":414,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Switchyard. Nobody past the east mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":415,"kind":"place","name":"Switchyard east mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard east mouth. Bess keeps the drum for the start. 4 steps, weave on the left lane, open."}
