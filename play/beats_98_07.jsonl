@@ -119,3 +119,6 @@
 {"n":119,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at the Lot. Nobody past the west mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":120,"kind":"place","name":"the Lot west mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot west mouth. Ivo keeps the awning for the start. 5 steps, weave on the left lane, open."}
 {"n":121,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west mouth. weave left open. 6 steps. The awning stays for the start."}
+{"n":122,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at the Lot. Nobody past the west mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":123,"kind":"place","name":"the Lot west mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west mouth. Bess keeps the awning for the start. 8 steps, weave on the left lane, open."}
+{"n":124,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west mouth. weave left open. 2 steps. The awning stays for the start."}
