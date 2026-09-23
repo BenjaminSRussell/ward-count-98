@@ -145,3 +145,6 @@
 {"n":145,"kind":"place","name":"Stockyard fence east mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence east mouth. Nia keeps the awning for the start. 7 steps, weave on the left lane, open."}
 {"n":146,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east mouth. weave left open. 8 steps. The awning stays for the start."}
 {"n":147,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Stockyard fence. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":148,"kind":"place","name":"Stockyard fence east mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence east mouth. Ivo keeps the awning for the start. 3 steps, weave on the left lane, open."}
+{"n":149,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east mouth. weave left open. 4 steps. The awning stays for the start."}
+{"n":150,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Stockyard fence. Nobody past the east mouth. We start in 5 steps. Weave on the left lane, open."}
