@@ -980,3 +980,6 @@
 {"n":980,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light north curb. Ivo keeps the shutter for the start. 2 steps, weave on the left lane, open."}
 {"n":981,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north curb. weave left open. 3 steps. The shutter stays for the start."}
 {"n":982,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Last Light. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":983,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light north curb. Bess keeps the shutter for the start. 5 steps, weave on the left lane, open."}
+{"n":984,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north curb. weave left open. 6 steps. The shutter stays for the start."}
+{"n":985,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at South stair. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
