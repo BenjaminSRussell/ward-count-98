@@ -732,3 +732,6 @@
 {"n":732,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north curb. weave left open. 6 steps. The rope stays for the start."}
 {"n":733,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Kessler alley. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":734,"kind":"place","name":"Kessler alley north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley north curb. Matt keeps the rope for the start. 8 steps, weave on the left lane, open."}
+{"n":735,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north curb. weave left open. 2 steps. The rope stays for the start."}
+{"n":736,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Kessler alley. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":737,"kind":"place","name":"Kessler alley north curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley north curb. Nia keeps the rope for the start. 4 steps, weave on the left lane, open."}
