@@ -541,3 +541,6 @@
 {"n":541,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at the pier. Nobody past the east mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":542,"kind":"place","name":"the pier east mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier east mouth. Matt keeps the lamp for the start. 6 steps, weave on the left lane, open."}
 {"n":543,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east mouth. weave left open. 7 steps. The lamp stays for the start."}
+{"n":544,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at the pier. Nobody past the east mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":545,"kind":"place","name":"the pier east mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier east mouth. Nia keeps the lamp for the start. 2 steps, weave on the left lane, open."}
+{"n":546,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east mouth. weave left open. 3 steps. The lamp stays for the start."}
