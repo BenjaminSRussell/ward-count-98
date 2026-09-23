@@ -387,3 +387,6 @@
 {"n":387,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south curb. weave left open. 8 steps. The drum stays for the start."}
 {"n":388,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Drydock. Nobody past the south curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":389,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock south curb. Nia keeps the drum for the start. 3 steps, weave on the left lane, open."}
+{"n":390,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south curb. weave left open. 4 steps. The drum stays for the start."}
+{"n":391,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Drydock. Nobody past the south curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":392,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock south curb. Ivo keeps the drum for the start. 6 steps, weave on the left lane, open."}
