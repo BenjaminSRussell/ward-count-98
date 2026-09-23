@@ -671,3 +671,6 @@
 {"n":671,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Mast yard. Nobody past the west mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":672,"kind":"place","name":"Mast yard west mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard west mouth. Ivo keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
 {"n":673,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west mouth. weave left open. 5 steps. The radio coil stays for the start."}
+{"n":674,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Mast yard. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":675,"kind":"place","name":"Mast yard west mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard west mouth. Bess keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
+{"n":676,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west mouth. weave left open. 8 steps. The radio coil stays for the start."}
