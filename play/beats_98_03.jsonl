@@ -387,3 +387,6 @@
 {"n":387,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at High line. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":388,"kind":"place","name":"High line north curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line north curb. Ivo keeps the drum for the start. 4 steps, weave on the left lane, open."}
 {"n":389,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north curb. weave left open. 5 steps. The drum stays for the start."}
+{"n":390,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at High line. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":391,"kind":"place","name":"High line north curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north curb. Bess keeps the drum for the start. 7 steps, weave on the left lane, open."}
+{"n":392,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north curb. weave left open. 8 steps. The drum stays for the start."}
