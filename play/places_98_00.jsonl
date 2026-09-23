@@ -650,3 +650,6 @@
 {"n":650,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east curb. weave left open. 3 steps. The rebar stays for the start."}
 {"n":651,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at the pier. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":652,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier east curb. Ivo keeps the rebar for the start. 5 steps, weave on the left lane, open."}
+{"n":653,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east curb. weave left open. 6 steps. The rebar stays for the start."}
+{"n":654,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the pier. Nobody past the east curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":655,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier east curb. Bess keeps the rebar for the start. 8 steps, weave on the left lane, open."}
