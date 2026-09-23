@@ -492,3 +492,6 @@
 {"n":492,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at South stair. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":493,"kind":"place","name":"South stair north curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair north curb. Nia keeps the badge door for the start. 4 steps, weave on the left lane, open."}
 {"n":494,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north curb. weave left open. 5 steps. The badge door stays for the start."}
+{"n":495,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at South stair. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":496,"kind":"place","name":"South stair north curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair north curb. Ivo keeps the badge door for the start. 7 steps, weave on the left lane, open."}
+{"n":497,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north curb. weave left open. 8 steps. The badge door stays for the start."}
