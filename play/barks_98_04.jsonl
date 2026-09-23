@@ -729,3 +729,6 @@
 {"n":729,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line south curb. Nia keeps the rebar for the start. 8 steps, weave on the left lane, open."}
 {"n":730,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south curb. weave left open. 2 steps. The rebar stays for the start."}
 {"n":731,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at High line. Nobody past the south curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":732,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line south curb. Ivo keeps the rebar for the start. 4 steps, weave on the left lane, open."}
+{"n":733,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south curb. weave left open. 5 steps. The rebar stays for the start."}
+{"n":734,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at High line. Nobody past the south curb. We start in 6 steps. Weave on the left lane, open."}
