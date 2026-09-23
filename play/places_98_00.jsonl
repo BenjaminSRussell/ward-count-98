@@ -428,3 +428,6 @@
 {"n":428,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east curb. weave left open. 5 steps. The lamp stays for the start."}
 {"n":429,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at the Underpass. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":430,"kind":"place","name":"the Underpass east curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass east curb. Matt keeps the lamp for the start. 7 steps, weave on the left lane, open."}
+{"n":431,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east curb. weave left open. 8 steps. The lamp stays for the start."}
+{"n":432,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at the Underpass. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":433,"kind":"place","name":"the Underpass east curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass east curb. Nia keeps the lamp for the start. 3 steps, weave on the left lane, open."}
