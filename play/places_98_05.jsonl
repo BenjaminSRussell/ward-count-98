@@ -930,3 +930,6 @@
 {"n":930,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west mouth. weave left open. 5 steps. The hydrant stays for the start."}
 {"n":931,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Kessler alley. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":932,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west mouth. Ivo keeps the hydrant for the start. 7 steps, weave on the left lane, open."}
+{"n":933,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west mouth. weave left open. 8 steps. The hydrant stays for the start."}
+{"n":934,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the west mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":935,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west mouth. Bess keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
