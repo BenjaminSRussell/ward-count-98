@@ -730,3 +730,6 @@
 {"n":730,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south curb. Matt keeps the plywood for the start. 3 steps, weave on the left lane, open."}
 {"n":731,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south curb. weave left open. 4 steps. The plywood stays for the start."}
 {"n":732,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Ward gate. Nobody past the south curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":733,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate south curb. Nia keeps the plywood for the start. 6 steps, weave on the left lane, open."}
+{"n":734,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south curb. weave left open. 7 steps. The plywood stays for the start."}
+{"n":735,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Ward gate. Nobody past the south curb. We start in 8 steps. Weave on the left lane, open."}
