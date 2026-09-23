@@ -539,3 +539,6 @@
 {"n":539,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Switchyard. Nobody past the south curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":540,"kind":"place","name":"Switchyard south curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard south curb. Ivo keeps the lamp for the start. 8 steps, weave on the left lane, open."}
 {"n":541,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south curb. weave left open. 2 steps. The lamp stays for the start."}
+{"n":542,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Switchyard. Nobody past the south curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":543,"kind":"place","name":"Switchyard south curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard south curb. Bess keeps the lamp for the start. 4 steps, weave on the left lane, open."}
+{"n":544,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south curb. weave left open. 5 steps. The lamp stays for the start."}
