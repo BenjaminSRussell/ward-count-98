@@ -631,3 +631,6 @@
 {"n":631,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at the Lot. Nobody past the east mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":632,"kind":"place","name":"the Lot east mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot east mouth. Ivo keeps the rebar for the start. 5 steps, weave on the left lane, open."}
 {"n":633,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east mouth. weave left open. 6 steps. The rebar stays for the start."}
+{"n":634,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the Lot. Nobody past the east mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":635,"kind":"place","name":"the Lot east mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot east mouth. Bess keeps the rebar for the start. 8 steps, weave on the left lane, open."}
+{"n":636,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east mouth. weave left open. 2 steps. The rebar stays for the start."}
