@@ -250,3 +250,6 @@
 {"n":250,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west mouth. weave left open. 2 steps. The awning stays for the start."}
 {"n":251,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at High line. Nobody past the west mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":252,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line west mouth. Ivo keeps the awning for the start. 4 steps, weave on the left lane, open."}
+{"n":253,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west mouth. weave left open. 5 steps. The awning stays for the start."}
+{"n":254,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at High line. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":255,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line west mouth. Bess keeps the awning for the start. 7 steps, weave on the left lane, open."}
