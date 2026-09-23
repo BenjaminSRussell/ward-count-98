@@ -106,3 +106,6 @@
 {"n":106,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west mouth. weave left open. 5 steps. The awning stays for the start."}
 {"n":107,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Kessler alley. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":108,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west mouth. Ivo keeps the awning for the start. 7 steps, weave on the left lane, open."}
+{"n":109,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west mouth. weave left open. 8 steps. The awning stays for the start."}
+{"n":110,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Kessler alley. Nobody past the west mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":111,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west mouth. Bess keeps the awning for the start. 3 steps, weave on the left lane, open."}
