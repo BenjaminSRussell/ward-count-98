@@ -16,3 +16,6 @@
 {"n":16,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Switchyard. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":17,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard north curb. Nia keeps the hydrant for the start. 5 steps, weave on the left lane, open."}
 {"n":18,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north curb. weave left open. 6 steps. The hydrant stays for the start."}
+{"n":19,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Switchyard. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":20,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard north curb. Ivo keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
+{"n":21,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north curb. weave left open. 2 steps. The hydrant stays for the start."}
