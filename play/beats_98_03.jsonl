@@ -834,3 +834,6 @@
 {"n":834,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at South stair. Nobody past the south curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":835,"kind":"place","name":"South stair south curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair south curb. Bess keeps the plywood for the start. 3 steps, weave on the left lane, open."}
 {"n":836,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south curb. weave left open. 4 steps. The plywood stays for the start."}
+{"n":837,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the pier. Nobody past the south curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":838,"kind":"place","name":"the pier south curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier south curb. Matt keeps the plywood for the start. 6 steps, weave on the left lane, open."}
+{"n":839,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south curb. weave left open. 7 steps. The plywood stays for the start."}
