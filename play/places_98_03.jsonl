@@ -899,3 +899,6 @@
 {"n":899,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south curb. weave left open. 4 steps. The hydrant stays for the start."}
 {"n":900,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Ward gate. Nobody past the south curb. We start in 5 steps. Weave on the left lane, open."}
 {"n":901,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Ward gate south curb. Nia keeps the hydrant for the start. 6 steps, weave on the left lane, open."}
+{"n":902,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south curb. weave left open. 7 steps. The hydrant stays for the start."}
+{"n":903,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Ward gate. Nobody past the south curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":904,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate south curb. Ivo keeps the hydrant for the start. 2 steps, weave on the left lane, open."}
