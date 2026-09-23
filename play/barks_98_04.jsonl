@@ -654,3 +654,6 @@
 {"n":654,"kind":"place","name":"Last Light south curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light south curb. Matt keeps the rebar for the start. 3 steps, weave on the left lane, open."}
 {"n":655,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south curb. weave left open. 4 steps. The rebar stays for the start."}
 {"n":656,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Last Light. Nobody past the south curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":657,"kind":"place","name":"Last Light south curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light south curb. Nia keeps the rebar for the start. 6 steps, weave on the left lane, open."}
+{"n":658,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south curb. weave left open. 7 steps. The rebar stays for the start."}
+{"n":659,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Last Light. Nobody past the south curb. We start in 8 steps. Weave on the left lane, open."}
