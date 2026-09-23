@@ -308,3 +308,6 @@
 {"n":308,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Mast yard. Nobody past the south curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":309,"kind":"place","name":"Mast yard south curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south curb. Nia keeps the crate for the start. 8 steps, weave on the left lane, open."}
 {"n":310,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south curb. weave left open. 2 steps. The crate stays for the start."}
+{"n":311,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Mast yard. Nobody past the south curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":312,"kind":"place","name":"Mast yard south curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south curb. Ivo keeps the crate for the start. 4 steps, weave on the left lane, open."}
+{"n":313,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south curb. weave left open. 5 steps. The crate stays for the start."}
