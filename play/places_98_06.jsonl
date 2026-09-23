@@ -167,3 +167,6 @@
 {"n":167,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west mouth. weave left open. 4 steps. The barrel stays for the start."}
 {"n":168,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Last Light. Nobody past the west mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":169,"kind":"place","name":"Last Light west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light west mouth. Nia keeps the barrel for the start. 6 steps, weave on the left lane, open."}
+{"n":170,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west mouth. weave left open. 7 steps. The barrel stays for the start."}
+{"n":171,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Last Light. Nobody past the west mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":172,"kind":"place","name":"Last Light west mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light west mouth. Ivo keeps the barrel for the start. 2 steps, weave on the left lane, open."}
