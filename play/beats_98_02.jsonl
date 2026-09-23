@@ -163,3 +163,6 @@
 {"n":163,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at the pier. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":164,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier north curb. Ivo keeps the barrel for the start. 5 steps, weave on the left lane, open."}
 {"n":165,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north curb. weave left open. 6 steps. The barrel stays for the start."}
+{"n":166,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at the pier. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":167,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north curb. Bess keeps the barrel for the start. 8 steps, weave on the left lane, open."}
+{"n":168,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north curb. weave left open. 2 steps. The barrel stays for the start."}
