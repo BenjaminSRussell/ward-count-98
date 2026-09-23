@@ -311,3 +311,6 @@
 {"n":311,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north curb. weave left open. 4 steps. The drum stays for the start."}
 {"n":312,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Last Light. Nobody past the north curb. We start in 5 steps. Weave on the left lane, open."}
 {"n":313,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light north curb. Nia keeps the drum for the start. 6 steps, weave on the left lane, open."}
+{"n":314,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north curb. weave left open. 7 steps. The drum stays for the start."}
+{"n":315,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Last Light. Nobody past the north curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":316,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light north curb. Ivo keeps the drum for the start. 2 steps, weave on the left lane, open."}
