@@ -780,3 +780,6 @@
 {"n":780,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Mall court. Nobody past the south curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":781,"kind":"place","name":"Mall court south curb","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court south curb. Nia keeps the plywood for the start. 5 steps, weave on the left lane, open."}
 {"n":782,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south curb. weave left open. 6 steps. The plywood stays for the start."}
+{"n":783,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Mall court. Nobody past the south curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":784,"kind":"place","name":"Mall court south curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court south curb. Ivo keeps the plywood for the start. 8 steps, weave on the left lane, open."}
+{"n":785,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south curb. weave left open. 2 steps. The plywood stays for the start."}
