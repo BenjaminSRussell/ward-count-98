@@ -169,3 +169,6 @@
 {"n":169,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east curb. weave left open. 4 steps. The awning stays for the start."}
 {"n":170,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Clinic roof. Nobody past the east curb. We start in 5 steps. Weave on the left lane, open."}
 {"n":171,"kind":"place","name":"Clinic roof east curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof east curb. Bess keeps the awning for the start. 6 steps, weave on the left lane, open."}
+{"n":172,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east curb. weave left open. 7 steps. The awning stays for the start."}
+{"n":173,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Switchyard. Nobody past the east curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":174,"kind":"place","name":"Switchyard east curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard east curb. Matt keeps the awning for the start. 2 steps, weave on the left lane, open."}
