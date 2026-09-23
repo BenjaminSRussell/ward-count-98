@@ -705,3 +705,6 @@
 {"n":705,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line east curb. Nia keeps the radio coil for the start. 8 steps, weave on the left lane, open."}
 {"n":706,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east curb. weave left open. 2 steps. The radio coil stays for the start."}
 {"n":707,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at High line. Nobody past the east curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":708,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east curb. Ivo keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
+{"n":709,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east curb. weave left open. 5 steps. The radio coil stays for the start."}
+{"n":710,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at High line. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
