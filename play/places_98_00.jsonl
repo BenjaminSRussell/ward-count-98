@@ -209,3 +209,6 @@
 {"n":209,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east curb. weave left open. 3 steps. The crate stays for the start."}
 {"n":210,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Ward gate. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":211,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate east curb. Bess keeps the crate for the start. 5 steps, weave on the left lane, open."}
+{"n":212,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east curb. weave left open. 6 steps. The crate stays for the start."}
+{"n":213,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Kessler alley. Nobody past the east curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":214,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley east curb. Matt keeps the crate for the start. 8 steps, weave on the left lane, open."}
