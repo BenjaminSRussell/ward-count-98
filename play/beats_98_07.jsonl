@@ -602,3 +602,6 @@
 {"n":602,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Ward gate. Nobody past the west mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":603,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate west mouth. Bess keeps the radio coil for the start. 5 steps, weave on the left lane, open."}
 {"n":604,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west mouth. weave left open. 6 steps. The radio coil stays for the start."}
+{"n":605,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the west mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":606,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley west mouth. Matt keeps the radio coil for the start. 8 steps, weave on the left lane, open."}
+{"n":607,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west mouth. weave left open. 2 steps. The radio coil stays for the start."}
