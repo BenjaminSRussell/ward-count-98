@@ -577,3 +577,6 @@
 {"n":577,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east curb. weave left open. 6 steps. The radio coil stays for the start."}
 {"n":578,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at the Lot. Nobody past the east curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":579,"kind":"place","name":"the Lot east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot east curb. Bess keeps the radio coil for the start. 8 steps, weave on the left lane, open."}
+{"n":580,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east curb. weave left open. 2 steps. The radio coil stays for the start."}
+{"n":581,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the east curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":582,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence east curb. Matt keeps the radio coil for the start. 4 steps, weave on the left lane, open."}
