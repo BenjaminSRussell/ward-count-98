@@ -909,3 +909,6 @@
 {"n":909,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot north curb. Nia keeps the hydrant for the start. 2 steps, weave on the left lane, open."}
 {"n":910,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north curb. weave left open. 3 steps. The hydrant stays for the start."}
 {"n":911,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at the Lot. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":912,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot north curb. Ivo keeps the hydrant for the start. 5 steps, weave on the left lane, open."}
+{"n":913,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north curb. weave left open. 6 steps. The hydrant stays for the start."}
+{"n":914,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at the Lot. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
