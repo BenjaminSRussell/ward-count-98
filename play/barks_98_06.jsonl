@@ -490,3 +490,6 @@
 {"n":490,"kind":"place","name":"Mast yard west mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard west mouth. Matt keeps the lamp for the start. 5 steps, weave on the left lane, open."}
 {"n":491,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west mouth. weave left open. 6 steps. The lamp stays for the start."}
 {"n":492,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Mast yard. Nobody past the west mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":493,"kind":"place","name":"Mast yard west mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard west mouth. Nia keeps the lamp for the start. 8 steps, weave on the left lane, open."}
+{"n":494,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west mouth. weave left open. 2 steps. The lamp stays for the start."}
+{"n":495,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Mast yard. Nobody past the west mouth. We start in 3 steps. Weave on the left lane, open."}
