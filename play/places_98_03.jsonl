@@ -281,3 +281,6 @@
 {"n":281,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north curb. weave left open. 2 steps. The drum stays for the start."}
 {"n":282,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Mall court. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":283,"kind":"place","name":"Mall court north curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court north curb. Bess keeps the drum for the start. 4 steps, weave on the left lane, open."}
+{"n":284,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north curb. weave left open. 5 steps. The drum stays for the start."}
+{"n":285,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at the Underpass. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":286,"kind":"place","name":"the Underpass north curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass north curb. Matt keeps the drum for the start. 7 steps, weave on the left lane, open."}
