@@ -14,3 +14,6 @@
 {"n":14,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at the pier. Nobody past the south curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":15,"kind":"place","name":"the pier south curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier south curb. Bess keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
 {"n":16,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south curb. weave left open. 2 steps. The hydrant stays for the start."}
+{"n":17,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Clinic roof. Nobody past the south curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":18,"kind":"place","name":"Clinic roof south curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof south curb. Matt keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
+{"n":19,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south curb. weave left open. 5 steps. The hydrant stays for the start."}
