@@ -478,3 +478,6 @@
 {"n":478,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south curb. weave left open. 2 steps. The lamp stays for the start."}
 {"n":479,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Mast yard. Nobody past the south curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":480,"kind":"place","name":"Mast yard south curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard south curb. Ivo keeps the lamp for the start. 4 steps, weave on the left lane, open."}
+{"n":481,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south curb. weave left open. 5 steps. The lamp stays for the start."}
+{"n":482,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Mast yard. Nobody past the south curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":483,"kind":"place","name":"Mast yard south curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard south curb. Bess keeps the lamp for the start. 7 steps, weave on the left lane, open."}
