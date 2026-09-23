@@ -326,3 +326,6 @@
 {"n":326,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north curb. weave left open. 5 steps. The drum stays for the start."}
 {"n":327,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at South stair. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":328,"kind":"place","name":"South stair north curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair north curb. Ivo keeps the drum for the start. 7 steps, weave on the left lane, open."}
+{"n":329,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north curb. weave left open. 8 steps. The drum stays for the start."}
+{"n":330,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at South stair. Nobody past the north curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":331,"kind":"place","name":"South stair north curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair north curb. Bess keeps the drum for the start. 3 steps, weave on the left lane, open."}
