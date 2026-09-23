@@ -310,3 +310,6 @@
 {"n":310,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east curb. Matt keeps the crate for the start. 6 steps, weave on the left lane, open."}
 {"n":311,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east curb. weave left open. 7 steps. The crate stays for the start."}
 {"n":312,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at the pier. Nobody past the east curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":313,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier east curb. Nia keeps the crate for the start. 2 steps, weave on the left lane, open."}
+{"n":314,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east curb. weave left open. 3 steps. The crate stays for the start."}
+{"n":315,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at the pier. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
