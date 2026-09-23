@@ -872,3 +872,6 @@
 {"n":872,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south curb. weave left open. 5 steps. The plywood stays for the start."}
 {"n":873,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Drydock. Nobody past the south curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":874,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock south curb. Matt keeps the plywood for the start. 7 steps, weave on the left lane, open."}
+{"n":875,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south curb. weave left open. 8 steps. The plywood stays for the start."}
+{"n":876,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Drydock. Nobody past the south curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":877,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock south curb. Nia keeps the plywood for the start. 3 steps, weave on the left lane, open."}
