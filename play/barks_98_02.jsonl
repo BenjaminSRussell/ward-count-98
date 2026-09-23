@@ -503,3 +503,6 @@
 {"n":503,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north curb. Bess keeps the lamp for the start. 8 steps, weave on the left lane, open."}
 {"n":504,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north curb. weave left open. 2 steps. The lamp stays for the start."}
 {"n":505,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Clinic roof. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":506,"kind":"place","name":"Clinic roof north curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof north curb. Matt keeps the lamp for the start. 4 steps, weave on the left lane, open."}
+{"n":507,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north curb. weave left open. 5 steps. The lamp stays for the start."}
+{"n":508,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Clinic roof. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
