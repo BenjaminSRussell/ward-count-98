@@ -403,3 +403,6 @@
 {"n":403,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east curb. weave left open. 7 steps. The badge door stays for the start."}
 {"n":404,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at the Lot. Nobody past the east curb. We start in 8 steps. Weave on the left lane, open."}
 {"n":405,"kind":"place","name":"the Lot east curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot east curb. Nia keeps the badge door for the start. 2 steps, weave on the left lane, open."}
+{"n":406,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east curb. weave left open. 3 steps. The badge door stays for the start."}
+{"n":407,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at the Lot. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":408,"kind":"place","name":"the Lot east curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot east curb. Ivo keeps the badge door for the start. 5 steps, weave on the left lane, open."}
