@@ -528,3 +528,6 @@
 {"n":528,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock east curb. Ivo keeps the badge door for the start. 6 steps, weave on the left lane, open."}
 {"n":529,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east curb. weave left open. 7 steps. The badge door stays for the start."}
 {"n":530,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Drydock. Nobody past the east curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":531,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock east curb. Bess keeps the badge door for the start. 2 steps, weave on the left lane, open."}
+{"n":532,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east curb. weave left open. 3 steps. The badge door stays for the start."}
+{"n":533,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at High line. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
