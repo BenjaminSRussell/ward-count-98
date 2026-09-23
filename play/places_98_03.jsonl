@@ -749,3 +749,6 @@
 {"n":749,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south curb. weave left open. 8 steps. The plywood stays for the start."}
 {"n":750,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Kessler alley. Nobody past the south curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":751,"kind":"place","name":"Kessler alley south curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley south curb. Bess keeps the plywood for the start. 3 steps, weave on the left lane, open."}
+{"n":752,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south curb. weave left open. 4 steps. The plywood stays for the start."}
+{"n":753,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the Lot. Nobody past the south curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":754,"kind":"place","name":"the Lot south curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot south curb. Matt keeps the plywood for the start. 6 steps, weave on the left lane, open."}
