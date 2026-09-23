@@ -226,3 +226,6 @@
 {"n":226,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Clinic roof. Nobody past the east mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":227,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof east mouth. Bess keeps the barrel for the start. 6 steps, weave on the left lane, open."}
 {"n":228,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east mouth. weave left open. 7 steps. The barrel stays for the start."}
+{"n":229,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Switchyard. Nobody past the east mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":230,"kind":"place","name":"Switchyard east mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard east mouth. Matt keeps the barrel for the start. 2 steps, weave on the left lane, open."}
+{"n":231,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east mouth. weave left open. 3 steps. The barrel stays for the start."}
