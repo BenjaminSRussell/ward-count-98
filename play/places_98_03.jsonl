@@ -452,3 +452,6 @@
 {"n":452,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north curb. weave left open. 5 steps. The badge door stays for the start."}
 {"n":453,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at the Underpass. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":454,"kind":"place","name":"the Underpass north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass north curb. Matt keeps the badge door for the start. 7 steps, weave on the left lane, open."}
+{"n":455,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north curb. weave left open. 8 steps. The badge door stays for the start."}
+{"n":456,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at the Underpass. Nobody past the north curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":457,"kind":"place","name":"the Underpass north curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass north curb. Nia keeps the badge door for the start. 3 steps, weave on the left lane, open."}
