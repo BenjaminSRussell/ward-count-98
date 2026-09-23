@@ -544,3 +544,6 @@
 {"n":544,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east curb. weave left open. 8 steps. The badge door stays for the start."}
 {"n":545,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Ward gate. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":546,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate east curb. Matt keeps the radio coil for the start. 3 steps, weave on the left lane, open."}
+{"n":547,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east curb. weave left open. 4 steps. The radio coil stays for the start."}
+{"n":548,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Ward gate. Nobody past the east curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":549,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate east curb. Nia keeps the radio coil for the start. 6 steps, weave on the left lane, open."}
