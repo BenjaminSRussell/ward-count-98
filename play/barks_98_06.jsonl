@@ -97,3 +97,6 @@
 {"n":97,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley west mouth. Nia keeps the barrel for the start. 4 steps, weave on the left lane, open."}
 {"n":98,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west mouth. weave left open. 5 steps. The barrel stays for the start."}
 {"n":99,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Kessler alley. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":100,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west mouth. Ivo keeps the barrel for the start. 7 steps, weave on the left lane, open."}
+{"n":101,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west mouth. weave left open. 8 steps. The barrel stays for the start."}
+{"n":102,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Kessler alley. Nobody past the west mouth. We start in 2 steps. Weave on the left lane, open."}
