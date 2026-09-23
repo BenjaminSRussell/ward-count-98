@@ -384,3 +384,6 @@
 {"n":384,"kind":"place","name":"Clinic roof west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof west mouth. Ivo keeps the drum for the start. 3 steps, weave on the left lane, open."}
 {"n":385,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west mouth. weave left open. 4 steps. The drum stays for the start."}
 {"n":386,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Clinic roof. Nobody past the west mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":387,"kind":"place","name":"Clinic roof west mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof west mouth. Bess keeps the drum for the start. 6 steps, weave on the left lane, open."}
+{"n":388,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west mouth. weave left open. 7 steps. The drum stays for the start."}
+{"n":389,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Switchyard. Nobody past the west mouth. We start in 8 steps. Weave on the left lane, open."}
