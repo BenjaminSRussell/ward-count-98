@@ -596,3 +596,6 @@
 {"n":596,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Ward gate. Nobody past the west mouth. We start in 5 steps. Weave on the left lane, open."}
 {"n":597,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate west mouth. Nia keeps the radio coil for the start. 6 steps, weave on the left lane, open."}
 {"n":598,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west mouth. weave left open. 7 steps. The radio coil stays for the start."}
+{"n":599,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Ward gate. Nobody past the west mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":600,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate west mouth. Ivo keeps the radio coil for the start. 2 steps, weave on the left lane, open."}
+{"n":601,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west mouth. weave left open. 3 steps. The radio coil stays for the start."}
