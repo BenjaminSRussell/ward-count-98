@@ -974,3 +974,6 @@
 {"n":974,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east curb. weave left open. 5 steps. The shutter stays for the start."}
 {"n":975,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at South stair. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":976,"kind":"place","name":"South stair east curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair east curb. Ivo keeps the shutter for the start. 7 steps, weave on the left lane, open."}
+{"n":977,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east curb. weave left open. 8 steps. The shutter stays for the start."}
+{"n":978,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at South stair. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":979,"kind":"place","name":"South stair east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair east curb. Bess keeps the shutter for the start. 3 steps, weave on the left lane, open."}
