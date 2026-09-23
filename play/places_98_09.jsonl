@@ -77,3 +77,6 @@
 {"n":77,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east mouth. weave left open. 2 steps. The shutter stays for the start."}
 {"n":78,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Switchyard. Nobody past the east mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":79,"kind":"place","name":"Switchyard east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east mouth. Bess keeps the shutter for the start. 4 steps, weave on the left lane, open."}
+{"n":80,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east mouth. weave left open. 5 steps. The shutter stays for the start."}
+{"n":81,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Drydock. Nobody past the east mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":82,"kind":"place","name":"Drydock east mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east mouth. Matt keeps the shutter for the start. 7 steps, weave on the left lane, open."}
