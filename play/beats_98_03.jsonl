@@ -825,3 +825,6 @@
 {"n":825,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at South stair. Nobody past the south curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":826,"kind":"place","name":"South stair south curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair south curb. Matt keeps the plywood for the start. 8 steps, weave on the left lane, open."}
 {"n":827,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south curb. weave left open. 2 steps. The plywood stays for the start."}
+{"n":828,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at South stair. Nobody past the south curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":829,"kind":"place","name":"South stair south curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair south curb. Nia keeps the plywood for the start. 4 steps, weave on the left lane, open."}
+{"n":830,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south curb. weave left open. 5 steps. The plywood stays for the start."}
