@@ -94,3 +94,6 @@
 {"n":94,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at High line. Nobody past the east mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":95,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east mouth. Bess keeps the hydrant for the start. 7 steps, weave on the left lane, open."}
 {"n":96,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. weave left open. 8 steps. The hydrant stays for the start."}
+{"n":97,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Ward gate. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":98,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east mouth. Matt keeps the barrel for the start. 3 steps, weave on the left lane, open."}
+{"n":99,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east mouth. weave left open. 4 steps. The barrel stays for the start."}
