@@ -45,3 +45,6 @@
 {"n":45,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Kessler alley. Nobody past the east curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":46,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley east curb. Matt keeps the barrel for the start. 8 steps, weave on the left lane, open."}
 {"n":47,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east curb. weave left open. 2 steps. The barrel stays for the start."}
+{"n":48,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Kessler alley. Nobody past the east curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":49,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley east curb. Nia keeps the barrel for the start. 4 steps, weave on the left lane, open."}
+{"n":50,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east curb. weave left open. 5 steps. The barrel stays for the start."}
