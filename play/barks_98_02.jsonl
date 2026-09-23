@@ -623,3 +623,6 @@
 {"n":623,"kind":"place","name":"the Underpass north curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass north curb. Bess keeps the rebar for the start. 2 steps, weave on the left lane, open."}
 {"n":624,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north curb. weave left open. 3 steps. The rebar stays for the start."}
 {"n":625,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Mast yard. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":626,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard north curb. Matt keeps the rebar for the start. 5 steps, weave on the left lane, open."}
+{"n":627,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north curb. weave left open. 6 steps. The rebar stays for the start."}
+{"n":628,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Mast yard. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
