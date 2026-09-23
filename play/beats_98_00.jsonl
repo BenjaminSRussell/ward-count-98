@@ -495,3 +495,6 @@
 {"n":495,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Clinic roof. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":496,"kind":"place","name":"Clinic roof east curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof east curb. Ivo keeps the lamp for the start. 3 steps, weave on the left lane, open."}
 {"n":497,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east curb. weave left open. 4 steps. The lamp stays for the start."}
+{"n":498,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Clinic roof. Nobody past the east curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":499,"kind":"place","name":"Clinic roof east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof east curb. Bess keeps the lamp for the start. 6 steps, weave on the left lane, open."}
+{"n":500,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east curb. weave left open. 7 steps. The lamp stays for the start."}
