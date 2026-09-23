@@ -941,3 +941,6 @@
 {"n":941,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north mouth. weave left open. 5 steps. The plywood stays for the start."}
 {"n":942,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at High line. Nobody past the north mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":943,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line north mouth. Bess keeps the plywood for the start. 7 steps, weave on the left lane, open."}
+{"n":944,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north mouth. weave left open. 8 steps. The plywood stays for the start."}
+{"n":945,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Ward gate. Nobody past the north mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":946,"kind":"place","name":"Ward gate north mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate north mouth. Matt keeps the hydrant for the start. 3 steps, weave on the left lane, open."}
