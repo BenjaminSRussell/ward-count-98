@@ -196,3 +196,6 @@
 {"n":196,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east curb. weave left open. 3 steps. The awning stays for the start."}
 {"n":197,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at High line. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":198,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line east curb. Matt keeps the awning for the start. 5 steps, weave on the left lane, open."}
+{"n":199,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east curb. weave left open. 6 steps. The awning stays for the start."}
+{"n":200,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at High line. Nobody past the east curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":201,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line east curb. Nia keeps the awning for the start. 8 steps, weave on the left lane, open."}
