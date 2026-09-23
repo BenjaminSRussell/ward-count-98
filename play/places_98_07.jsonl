@@ -337,3 +337,6 @@
 {"n":337,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west mouth. weave left open. 5 steps. The drum stays for the start."}
 {"n":338,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Mast yard. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":339,"kind":"place","name":"Mast yard west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west mouth. Bess keeps the drum for the start. 7 steps, weave on the left lane, open."}
+{"n":340,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west mouth. weave left open. 8 steps. The drum stays for the start."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Last Light. Nobody past the west mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":342,"kind":"place","name":"Last Light west mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light west mouth. Matt keeps the drum for the start. 3 steps, weave on the left lane, open."}
