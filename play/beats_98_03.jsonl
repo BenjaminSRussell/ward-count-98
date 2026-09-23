@@ -675,3 +675,6 @@
 {"n":675,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at the pier. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":676,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier north curb. Ivo keeps the radio coil for the start. 5 steps, weave on the left lane, open."}
 {"n":677,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north curb. weave left open. 6 steps. The radio coil stays for the start."}
+{"n":678,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at the pier. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":679,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north curb. Bess keeps the radio coil for the start. 8 steps, weave on the left lane, open."}
+{"n":680,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north curb. weave left open. 2 steps. The radio coil stays for the start."}
