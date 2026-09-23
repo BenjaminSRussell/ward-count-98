@@ -613,3 +613,6 @@
 {"n":613,"kind":"place","name":"Mall court north curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court north curb. Nia keeps the radio coil for the start. 5 steps, weave on the left lane, open."}
 {"n":614,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north curb. weave left open. 6 steps. The radio coil stays for the start."}
 {"n":615,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Mall court. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":616,"kind":"place","name":"Mall court north curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court north curb. Ivo keeps the radio coil for the start. 8 steps, weave on the left lane, open."}
+{"n":617,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north curb. weave left open. 2 steps. The radio coil stays for the start."}
+{"n":618,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Mall court. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
