@@ -955,3 +955,6 @@
 {"n":955,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north curb. weave left open. 6 steps. The hydrant stays for the start."}
 {"n":956,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Mast yard. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":957,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north curb. Nia keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
+{"n":958,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north curb. weave left open. 2 steps. The hydrant stays for the start."}
+{"n":959,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Mast yard. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":960,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north curb. Ivo keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
