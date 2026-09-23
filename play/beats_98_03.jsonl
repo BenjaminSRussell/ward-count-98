@@ -789,3 +789,6 @@
 {"n":789,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at the Underpass. Nobody past the south curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":790,"kind":"place","name":"the Underpass south curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass south curb. Matt keeps the plywood for the start. 7 steps, weave on the left lane, open."}
 {"n":791,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south curb. weave left open. 8 steps. The plywood stays for the start."}
+{"n":792,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at the Underpass. Nobody past the south curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":793,"kind":"place","name":"the Underpass south curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass south curb. Nia keeps the plywood for the start. 3 steps, weave on the left lane, open."}
+{"n":794,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south curb. weave left open. 4 steps. The plywood stays for the start."}
