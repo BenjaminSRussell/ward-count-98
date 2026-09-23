@@ -328,3 +328,6 @@
 {"n":328,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at the Underpass. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
 {"n":329,"kind":"place","name":"the Underpass east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass east mouth. Nia keeps the crate for the start. 3 steps, weave on the left lane, open."}
 {"n":330,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east mouth. weave left open. 4 steps. The crate stays for the start."}
+{"n":331,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at the Underpass. Nobody past the east mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":332,"kind":"place","name":"the Underpass east mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass east mouth. Ivo keeps the crate for the start. 6 steps, weave on the left lane, open."}
+{"n":333,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east mouth. weave left open. 7 steps. The crate stays for the start."}
