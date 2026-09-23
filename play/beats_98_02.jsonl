@@ -85,3 +85,6 @@
 {"n":85,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":86,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence north curb. Matt keeps the barrel for the start. 4 steps, weave on the left lane, open."}
 {"n":87,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north curb. weave left open. 5 steps. The barrel stays for the start."}
+{"n":88,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":89,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence north curb. Nia keeps the barrel for the start. 7 steps, weave on the left lane, open."}
+{"n":90,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north curb. weave left open. 8 steps. The barrel stays for the start."}
