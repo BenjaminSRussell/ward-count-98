@@ -588,3 +588,6 @@
 {"n":588,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line west mouth. Ivo keeps the badge door for the start. 4 steps, weave on the left lane, open."}
 {"n":589,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west mouth. weave left open. 5 steps. The badge door stays for the start."}
 {"n":590,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at High line. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":591,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line west mouth. Bess keeps the badge door for the start. 7 steps, weave on the left lane, open."}
+{"n":592,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west mouth. weave left open. 8 steps. The badge door stays for the start."}
+{"n":593,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Ward gate. Nobody past the west mouth. We start in 2 steps. Weave on the left lane, open."}
