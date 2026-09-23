@@ -274,3 +274,6 @@
 {"n":274,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Mall court. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":275,"kind":"place","name":"Mall court north curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court north curb. Bess keeps the crate for the start. 4 steps, weave on the left lane, open."}
 {"n":276,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north curb. weave left open. 5 steps. The crate stays for the start."}
+{"n":277,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at the Underpass. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":278,"kind":"place","name":"the Underpass north curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass north curb. Matt keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":279,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north curb. weave left open. 8 steps. The crate stays for the start."}
