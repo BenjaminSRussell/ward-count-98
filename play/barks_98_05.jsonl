@@ -989,3 +989,6 @@
 {"n":989,"kind":"place","name":"Mast yard west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard west mouth. Nia keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
 {"n":990,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west mouth. weave left open. 2 steps. The hydrant stays for the start."}
 {"n":991,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Mast yard. Nobody past the west mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":992,"kind":"place","name":"Mast yard west mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard west mouth. Ivo keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
+{"n":993,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west mouth. weave left open. 5 steps. The hydrant stays for the start."}
+{"n":994,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Mast yard. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
