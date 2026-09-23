@@ -936,3 +936,6 @@
 {"n":936,"kind":"place","name":"the Lot south curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot south curb. Ivo keeps the shutter for the start. 5 steps, weave on the left lane, open."}
 {"n":937,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south curb. weave left open. 6 steps. The shutter stays for the start."}
 {"n":938,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at the Lot. Nobody past the south curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":939,"kind":"place","name":"the Lot south curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot south curb. Bess keeps the shutter for the start. 8 steps, weave on the left lane, open."}
+{"n":940,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south curb. weave left open. 2 steps. The shutter stays for the start."}
+{"n":941,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Stockyard fence. Nobody past the south curb. We start in 3 steps. Weave on the left lane, open."}
