@@ -743,3 +743,6 @@
 {"n":743,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Ward gate. Nobody past the south curb. We start in 8 steps. Weave on the left lane, open."}
 {"n":744,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate south curb. Ivo keeps the rope for the start. 2 steps, weave on the left lane, open."}
 {"n":745,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south curb. weave left open. 3 steps. The rope stays for the start."}
+{"n":746,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Ward gate. Nobody past the south curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":747,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south curb. Bess keeps the rope for the start. 5 steps, weave on the left lane, open."}
+{"n":748,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south curb. weave left open. 6 steps. The rope stays for the start."}
