@@ -767,3 +767,6 @@
 {"n":767,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence north curb. Bess keeps the rope for the start. 6 steps, weave on the left lane, open."}
 {"n":768,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north curb. weave left open. 7 steps. The rope stays for the start."}
 {"n":769,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Mall court. Nobody past the north curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":770,"kind":"place","name":"Mall court north curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court north curb. Matt keeps the rope for the start. 2 steps, weave on the left lane, open."}
+{"n":771,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north curb. weave left open. 3 steps. The rope stays for the start."}
+{"n":772,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Mall court. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
