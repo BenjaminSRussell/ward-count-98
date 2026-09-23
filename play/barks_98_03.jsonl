@@ -364,3 +364,6 @@
 {"n":364,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard north curb. Ivo keeps the drum for the start. 8 steps, weave on the left lane, open."}
 {"n":365,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north curb. weave left open. 2 steps. The drum stays for the start."}
 {"n":366,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Switchyard. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":367,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard north curb. Bess keeps the drum for the start. 4 steps, weave on the left lane, open."}
+{"n":368,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north curb. weave left open. 5 steps. The drum stays for the start."}
+{"n":369,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Drydock. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
