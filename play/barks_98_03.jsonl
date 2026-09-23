@@ -559,3 +559,6 @@
 {"n":559,"kind":"place","name":"High line north curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north curb. Bess keeps the badge door for the start. 7 steps, weave on the left lane, open."}
 {"n":560,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north curb. weave left open. 8 steps. The badge door stays for the start."}
 {"n":561,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Ward gate. Nobody past the north curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":562,"kind":"place","name":"Ward gate north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north curb. Matt keeps the radio coil for the start. 3 steps, weave on the left lane, open."}
+{"n":563,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north curb. weave left open. 4 steps. The radio coil stays for the start."}
+{"n":564,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Ward gate. Nobody past the north curb. We start in 5 steps. Weave on the left lane, open."}
