@@ -135,3 +135,6 @@
 {"n":135,"kind":"place","name":"the Underpass south curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass south curb. Bess keeps the barrel for the start. 2 steps, weave on the left lane, open."}
 {"n":136,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south curb. weave left open. 3 steps. The barrel stays for the start."}
 {"n":137,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Mast yard. Nobody past the south curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":138,"kind":"place","name":"Mast yard south curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard south curb. Matt keeps the barrel for the start. 5 steps, weave on the left lane, open."}
+{"n":139,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south curb. weave left open. 6 steps. The barrel stays for the start."}
+{"n":140,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Mast yard. Nobody past the south curb. We start in 7 steps. Weave on the left lane, open."}
