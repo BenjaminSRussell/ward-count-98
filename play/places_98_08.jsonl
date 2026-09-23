@@ -423,3 +423,6 @@
 {"n":423,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east mouth. weave left open. 6 steps. The crate stays for the start."}
 {"n":424,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at High line. Nobody past the east mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":425,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line east mouth. Nia keeps the crate for the start. 8 steps, weave on the left lane, open."}
+{"n":426,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east mouth. weave left open. 2 steps. The crate stays for the start."}
+{"n":427,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at High line. Nobody past the east mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":428,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east mouth. Ivo keeps the crate for the start. 4 steps, weave on the left lane, open."}
