@@ -879,3 +879,6 @@
 {"n":879,"kind":"place","name":"the pier east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier east mouth. Bess keeps the plywood for the start. 8 steps, weave on the left lane, open."}
 {"n":880,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east mouth. weave left open. 2 steps. The plywood stays for the start."}
 {"n":881,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Clinic roof. Nobody past the east mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":882,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof east mouth. Matt keeps the plywood for the start. 4 steps, weave on the left lane, open."}
+{"n":883,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east mouth. weave left open. 5 steps. The plywood stays for the start."}
+{"n":884,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Clinic roof. Nobody past the east mouth. We start in 6 steps. Weave on the left lane, open."}
