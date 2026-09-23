@@ -494,3 +494,6 @@
 {"n":494,"kind":"place","name":"the Underpass east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass east mouth. Matt keeps the lamp for the start. 7 steps, weave on the left lane, open."}
 {"n":495,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east mouth. weave left open. 8 steps. The lamp stays for the start."}
 {"n":496,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at the Underpass. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":497,"kind":"place","name":"the Underpass east mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass east mouth. Nia keeps the lamp for the start. 3 steps, weave on the left lane, open."}
+{"n":498,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east mouth. weave left open. 4 steps. The lamp stays for the start."}
+{"n":499,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at the Underpass. Nobody past the east mouth. We start in 5 steps. Weave on the left lane, open."}
