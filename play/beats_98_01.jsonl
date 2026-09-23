@@ -272,3 +272,6 @@
 {"n":272,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at the Underpass. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":273,"kind":"place","name":"the Underpass east curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass east curb. Nia keeps the drum for the start. 3 steps, weave on the left lane, open."}
 {"n":274,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east curb. weave left open. 4 steps. The drum stays for the start."}
+{"n":275,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at the Underpass. Nobody past the east curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":276,"kind":"place","name":"the Underpass east curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass east curb. Ivo keeps the drum for the start. 6 steps, weave on the left lane, open."}
+{"n":277,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east curb. weave left open. 7 steps. The drum stays for the start."}
