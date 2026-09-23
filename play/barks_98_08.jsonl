@@ -476,3 +476,6 @@
 {"n":476,"kind":"place","name":"Stockyard fence east mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east mouth. Ivo keeps the lamp for the start. 3 steps, weave on the left lane, open."}
 {"n":477,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east mouth. weave left open. 4 steps. The lamp stays for the start."}
 {"n":478,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Stockyard fence. Nobody past the east mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":479,"kind":"place","name":"Stockyard fence east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence east mouth. Bess keeps the lamp for the start. 6 steps, weave on the left lane, open."}
+{"n":480,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east mouth. weave left open. 7 steps. The lamp stays for the start."}
+{"n":481,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Mall court. Nobody past the east mouth. We start in 8 steps. Weave on the left lane, open."}
