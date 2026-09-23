@@ -267,3 +267,6 @@
 {"n":267,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Kessler alley. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":268,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west mouth. Ivo keeps the crate for the start. 7 steps, weave on the left lane, open."}
 {"n":269,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west mouth. weave left open. 8 steps. The crate stays for the start."}
+{"n":270,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Kessler alley. Nobody past the west mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":271,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west mouth. Bess keeps the crate for the start. 3 steps, weave on the left lane, open."}
+{"n":272,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west mouth. weave left open. 4 steps. The crate stays for the start."}
