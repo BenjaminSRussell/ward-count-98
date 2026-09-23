@@ -741,3 +741,6 @@
 {"n":741,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock west mouth. Nia keeps the radio coil for the start. 3 steps, weave on the left lane, open."}
 {"n":742,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west mouth. weave left open. 4 steps. The radio coil stays for the start."}
 {"n":743,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at Drydock. Nobody past the west mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":744,"kind":"place","name":"Drydock west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock west mouth. Ivo keeps the radio coil for the start. 6 steps, weave on the left lane, open."}
+{"n":745,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west mouth. weave left open. 7 steps. The radio coil stays for the start."}
+{"n":746,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Drydock. Nobody past the west mouth. We start in 8 steps. Weave on the left lane, open."}
