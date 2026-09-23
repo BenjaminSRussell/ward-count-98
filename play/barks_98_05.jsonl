@@ -965,3 +965,6 @@
 {"n":965,"kind":"place","name":"Mall court west mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court west mouth. Nia keeps the hydrant for the start. 5 steps, weave on the left lane, open."}
 {"n":966,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west mouth. weave left open. 6 steps. The hydrant stays for the start."}
 {"n":967,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Mall court. Nobody past the west mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":968,"kind":"place","name":"Mall court west mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court west mouth. Ivo keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
+{"n":969,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west mouth. weave left open. 2 steps. The hydrant stays for the start."}
+{"n":970,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Mall court. Nobody past the west mouth. We start in 3 steps. Weave on the left lane, open."}
