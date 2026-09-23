@@ -688,3 +688,6 @@
 {"n":688,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Switchyard. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":689,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard north curb. Nia keeps the rebar for the start. 5 steps, weave on the left lane, open."}
 {"n":690,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north curb. weave left open. 6 steps. The rebar stays for the start."}
+{"n":691,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Switchyard. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":692,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard north curb. Ivo keeps the rebar for the start. 8 steps, weave on the left lane, open."}
+{"n":693,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north curb. weave left open. 2 steps. The rebar stays for the start."}
