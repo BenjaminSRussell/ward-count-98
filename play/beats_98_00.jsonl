@@ -408,3 +408,6 @@
 {"n":408,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Stockyard fence. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":409,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east curb. Nia keeps the lamp for the start. 7 steps, weave on the left lane, open."}
 {"n":410,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east curb. weave left open. 8 steps. The lamp stays for the start."}
+{"n":411,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Stockyard fence. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":412,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east curb. Ivo keeps the lamp for the start. 3 steps, weave on the left lane, open."}
+{"n":413,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east curb. weave left open. 4 steps. The lamp stays for the start."}
