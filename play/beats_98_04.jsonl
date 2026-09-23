@@ -905,3 +905,6 @@
 {"n":905,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Ward gate. Nobody past the south curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":906,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate south curb. Matt keeps the shutter for the start. 3 steps, weave on the left lane, open."}
 {"n":907,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south curb. weave left open. 4 steps. The shutter stays for the start."}
+{"n":908,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Ward gate. Nobody past the south curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":909,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate south curb. Nia keeps the shutter for the start. 6 steps, weave on the left lane, open."}
+{"n":910,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south curb. weave left open. 7 steps. The shutter stays for the start."}
