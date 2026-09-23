@@ -407,3 +407,6 @@
 {"n":407,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south curb. Bess keeps the drum for the start. 7 steps, weave on the left lane, open."}
 {"n":408,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south curb. weave left open. 8 steps. The drum stays for the start."}
 {"n":409,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at Ward gate. Nobody past the south curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":410,"kind":"place","name":"Ward gate south curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south curb. Matt keeps the badge door for the start. 3 steps, weave on the left lane, open."}
+{"n":411,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south curb. weave left open. 4 steps. The badge door stays for the start."}
+{"n":412,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at Ward gate. Nobody past the south curb. We start in 5 steps. Weave on the left lane, open."}
