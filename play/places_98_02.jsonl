@@ -789,3 +789,6 @@
 {"n":789,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north curb. weave left open. 7 steps. The rope stays for the start."}
 {"n":790,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at the Underpass. Nobody past the north curb. We start in 8 steps. Weave on the left lane, open."}
 {"n":791,"kind":"place","name":"the Underpass north curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass north curb. Bess keeps the rope for the start. 2 steps, weave on the left lane, open."}
+{"n":792,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north curb. weave left open. 3 steps. The rope stays for the start."}
+{"n":793,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Mast yard. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":794,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard north curb. Matt keeps the rope for the start. 5 steps, weave on the left lane, open."}
