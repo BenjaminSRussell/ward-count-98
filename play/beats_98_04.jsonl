@@ -563,3 +563,6 @@
 {"n":563,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at High line. Nobody past the south curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":564,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line south curb. Ivo keeps the lamp for the start. 4 steps, weave on the left lane, open."}
 {"n":565,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south curb. weave left open. 5 steps. The lamp stays for the start."}
+{"n":566,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at High line. Nobody past the south curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":567,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south curb. Bess keeps the lamp for the start. 7 steps, weave on the left lane, open."}
+{"n":568,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south curb. weave left open. 8 steps. The lamp stays for the start."}
