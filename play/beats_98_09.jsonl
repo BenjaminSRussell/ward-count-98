@@ -672,3 +672,6 @@
 {"n":672,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at the Underpass. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
 {"n":673,"kind":"place","name":"the Underpass east mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass east mouth. Nia keeps the radio coil for the start. 3 steps, weave on the left lane, open."}
 {"n":674,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east mouth. weave left open. 4 steps. The radio coil stays for the start."}
+{"n":675,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at the Underpass. Nobody past the east mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":676,"kind":"place","name":"the Underpass east mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass east mouth. Ivo keeps the radio coil for the start. 6 steps, weave on the left lane, open."}
+{"n":677,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east mouth. weave left open. 7 steps. The radio coil stays for the start."}
