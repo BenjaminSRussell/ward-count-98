@@ -57,3 +57,6 @@
 {"n":57,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east curb. Nia keeps the awning for the start. 4 steps, weave on the left lane, open."}
 {"n":58,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east curb. weave left open. 5 steps. The awning stays for the start."}
 {"n":59,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Kessler alley. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":60,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east curb. Ivo keeps the awning for the start. 7 steps, weave on the left lane, open."}
+{"n":61,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east curb. weave left open. 8 steps. The awning stays for the start."}
+{"n":62,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Kessler alley. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
