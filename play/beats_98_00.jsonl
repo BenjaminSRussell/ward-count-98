@@ -678,3 +678,6 @@
 {"n":678,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Switchyard. Nobody past the east curb. We start in 3 steps. Weave on the left lane, open."}
 {"n":679,"kind":"place","name":"Switchyard east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east curb. Bess keeps the rebar for the start. 4 steps, weave on the left lane, open."}
 {"n":680,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east curb. weave left open. 5 steps. The rebar stays for the start."}
+{"n":681,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Drydock. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":682,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east curb. Matt keeps the rebar for the start. 7 steps, weave on the left lane, open."}
+{"n":683,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east curb. weave left open. 8 steps. The rebar stays for the start."}
