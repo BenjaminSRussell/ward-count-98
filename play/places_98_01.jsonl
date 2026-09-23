@@ -394,3 +394,6 @@
 {"n":394,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east curb. weave left open. 5 steps. The badge door stays for the start."}
 {"n":395,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Kessler alley. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":396,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley east curb. Ivo keeps the badge door for the start. 7 steps, weave on the left lane, open."}
+{"n":397,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east curb. weave left open. 8 steps. The badge door stays for the start."}
+{"n":398,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Kessler alley. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":399,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley east curb. Bess keeps the badge door for the start. 3 steps, weave on the left lane, open."}
