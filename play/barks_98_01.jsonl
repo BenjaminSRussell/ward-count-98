@@ -480,3 +480,6 @@
 {"n":480,"kind":"place","name":"South stair east curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair east curb. Ivo keeps the badge door for the start. 7 steps, weave on the left lane, open."}
 {"n":481,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east curb. weave left open. 8 steps. The badge door stays for the start."}
 {"n":482,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at South stair. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":483,"kind":"place","name":"South stair east curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair east curb. Bess keeps the badge door for the start. 3 steps, weave on the left lane, open."}
+{"n":484,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east curb. weave left open. 4 steps. The badge door stays for the start."}
+{"n":485,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at the pier. Nobody past the east curb. We start in 5 steps. Weave on the left lane, open."}
