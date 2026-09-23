@@ -160,3 +160,6 @@
 {"n":160,"kind":"place","name":"Clinic roof east curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof east curb. Ivo keeps the barrel for the start. 3 steps, weave on the left lane, open."}
 {"n":161,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east curb. weave left open. 4 steps. The barrel stays for the start."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Clinic roof. Nobody past the east curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":163,"kind":"place","name":"Clinic roof east curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof east curb. Bess keeps the barrel for the start. 6 steps, weave on the left lane, open."}
+{"n":164,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east curb. weave left open. 7 steps. The barrel stays for the start."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Switchyard. Nobody past the east curb. We start in 8 steps. Weave on the left lane, open."}
