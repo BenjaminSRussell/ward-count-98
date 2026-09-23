@@ -344,3 +344,6 @@
 {"n":344,"kind":"place","name":"Clinic roof north curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof north curb. Ivo keeps the crate for the start. 3 steps, weave on the left lane, open."}
 {"n":345,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north curb. weave left open. 4 steps. The crate stays for the start."}
 {"n":346,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Clinic roof. Nobody past the north curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":347,"kind":"place","name":"Clinic roof north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof north curb. Bess keeps the crate for the start. 6 steps, weave on the left lane, open."}
+{"n":348,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north curb. weave left open. 7 steps. The crate stays for the start."}
+{"n":349,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Switchyard. Nobody past the north curb. We start in 8 steps. Weave on the left lane, open."}
