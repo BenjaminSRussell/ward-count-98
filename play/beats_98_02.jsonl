@@ -919,3 +919,6 @@
 {"n":919,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at the Lot. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":920,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot north curb. Ivo keeps the shutter for the start. 5 steps, weave on the left lane, open."}
 {"n":921,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north curb. weave left open. 6 steps. The shutter stays for the start."}
+{"n":922,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at the Lot. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":923,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot north curb. Bess keeps the shutter for the start. 8 steps, weave on the left lane, open."}
+{"n":924,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north curb. weave left open. 2 steps. The shutter stays for the start."}
