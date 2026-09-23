@@ -103,3 +103,6 @@
 {"n":103,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the barrel at Mall court. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":104,"kind":"place","name":"Mall court north curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court north curb. Ivo keeps the barrel for the start. 8 steps, weave on the left lane, open."}
 {"n":105,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north curb. weave left open. 2 steps. The barrel stays for the start."}
+{"n":106,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at Mall court. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":107,"kind":"place","name":"Mall court north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court north curb. Bess keeps the barrel for the start. 4 steps, weave on the left lane, open."}
+{"n":108,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north curb. weave left open. 5 steps. The barrel stays for the start."}
