@@ -92,3 +92,6 @@
 {"n":92,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east curb. weave left open. 5 steps. The barrel stays for the start."}
 {"n":93,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at the Underpass. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":94,"kind":"place","name":"the Underpass east curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass east curb. Matt keeps the barrel for the start. 7 steps, weave on the left lane, open."}
+{"n":95,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east curb. weave left open. 8 steps. The barrel stays for the start."}
+{"n":96,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at the Underpass. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":97,"kind":"place","name":"the Underpass east curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass east curb. Nia keeps the barrel for the start. 3 steps, weave on the left lane, open."}
