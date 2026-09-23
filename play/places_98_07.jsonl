@@ -523,3 +523,6 @@
 {"n":523,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west mouth. weave left open. 2 steps. The badge door stays for the start."}
 {"n":524,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at South stair. Nobody past the west mouth. We start in 3 steps. Weave on the left lane, open."}
 {"n":525,"kind":"place","name":"South stair west mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair west mouth. Nia keeps the badge door for the start. 4 steps, weave on the left lane, open."}
+{"n":526,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west mouth. weave left open. 5 steps. The badge door stays for the start."}
+{"n":527,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at South stair. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
+{"n":528,"kind":"place","name":"South stair west mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair west mouth. Ivo keeps the badge door for the start. 7 steps, weave on the left lane, open."}
