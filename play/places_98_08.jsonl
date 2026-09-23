@@ -933,3 +933,6 @@
 {"n":933,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east mouth. weave left open. 5 steps. The rope stays for the start."}
 {"n":934,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at High line. Nobody past the east mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":935,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east mouth. Bess keeps the rope for the start. 7 steps, weave on the left lane, open."}
+{"n":936,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. weave left open. 8 steps. The rope stays for the start."}
+{"n":937,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Ward gate. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":938,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east mouth. Matt keeps the shutter for the start. 3 steps, weave on the left lane, open."}
