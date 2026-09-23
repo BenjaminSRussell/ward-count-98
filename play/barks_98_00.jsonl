@@ -187,3 +187,6 @@
 {"n":187,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock east curb. Bess keeps the barrel for the start. 2 steps, weave on the left lane, open."}
 {"n":188,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east curb. weave left open. 3 steps. The barrel stays for the start."}
 {"n":189,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at High line. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":190,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line east curb. Matt keeps the barrel for the start. 5 steps, weave on the left lane, open."}
+{"n":191,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east curb. weave left open. 6 steps. The barrel stays for the start."}
+{"n":192,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at High line. Nobody past the east curb. We start in 7 steps. Weave on the left lane, open."}
