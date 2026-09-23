@@ -283,3 +283,6 @@
 {"n":283,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east curb. weave left open. 6 steps. The drum stays for the start."}
 {"n":284,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Mast yard. Nobody past the east curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":285,"kind":"place","name":"Mast yard east curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard east curb. Nia keeps the drum for the start. 8 steps, weave on the left lane, open."}
+{"n":286,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east curb. weave left open. 2 steps. The drum stays for the start."}
+{"n":287,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Mast yard. Nobody past the east curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":288,"kind":"place","name":"Mast yard east curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east curb. Ivo keeps the drum for the start. 4 steps, weave on the left lane, open."}
