@@ -745,3 +745,6 @@
 {"n":745,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at the Lot. Nobody past the north curb. We start in 5 steps. Weave on the left lane, open."}
 {"n":746,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot north curb. Matt keeps the rope for the start. 6 steps, weave on the left lane, open."}
 {"n":747,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north curb. weave left open. 7 steps. The rope stays for the start."}
+{"n":748,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at the Lot. Nobody past the north curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":749,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot north curb. Nia keeps the rope for the start. 2 steps, weave on the left lane, open."}
+{"n":750,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north curb. weave left open. 3 steps. The rope stays for the start."}
