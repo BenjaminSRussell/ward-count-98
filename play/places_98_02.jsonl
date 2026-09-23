@@ -855,3 +855,6 @@
 {"n":855,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north curb. weave left open. 3 steps. The rope stays for the start."}
 {"n":856,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Switchyard. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
 {"n":857,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard north curb. Nia keeps the rope for the start. 5 steps, weave on the left lane, open."}
+{"n":858,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north curb. weave left open. 6 steps. The rope stays for the start."}
+{"n":859,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Switchyard. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
+{"n":860,"kind":"place","name":"Switchyard north curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard north curb. Ivo keeps the rope for the start. 8 steps, weave on the left lane, open."}
