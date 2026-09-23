@@ -82,3 +82,6 @@
 {"n":82,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot north curb. Matt keeps the awning for the start. 6 steps, weave on the left lane, open."}
 {"n":83,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north curb. weave left open. 7 steps. The awning stays for the start."}
 {"n":84,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at the Lot. Nobody past the north curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":85,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot north curb. Nia keeps the awning for the start. 2 steps, weave on the left lane, open."}
+{"n":86,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north curb. weave left open. 3 steps. The awning stays for the start."}
+{"n":87,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at the Lot. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
