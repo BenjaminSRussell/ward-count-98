@@ -763,3 +763,6 @@
 {"n":763,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate west mouth. Bess keeps the rope for the start. 5 steps, weave on the left lane, open."}
 {"n":764,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west mouth. weave left open. 6 steps. The rope stays for the start."}
 {"n":765,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Kessler alley. Nobody past the west mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":766,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley west mouth. Matt keeps the rope for the start. 8 steps, weave on the left lane, open."}
+{"n":767,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west mouth. weave left open. 2 steps. The rope stays for the start."}
+{"n":768,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Kessler alley. Nobody past the west mouth. We start in 3 steps. Weave on the left lane, open."}
