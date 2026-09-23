@@ -508,3 +508,6 @@
 {"n":508,"kind":"place","name":"Switchyard east curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard east curb. Ivo keeps the lamp for the start. 8 steps, weave on the left lane, open."}
 {"n":509,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east curb. weave left open. 2 steps. The lamp stays for the start."}
 {"n":510,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Switchyard. Nobody past the east curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":511,"kind":"place","name":"Switchyard east curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard east curb. Bess keeps the lamp for the start. 4 steps, weave on the left lane, open."}
+{"n":512,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east curb. weave left open. 5 steps. The lamp stays for the start."}
+{"n":513,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Drydock. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
