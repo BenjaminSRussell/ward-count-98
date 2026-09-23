@@ -715,3 +715,6 @@
 {"n":715,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at the pier. Nobody past the east mouth. We start in 4 steps. Weave on the left lane, open."}
 {"n":716,"kind":"place","name":"the pier east mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier east mouth. Ivo keeps the rebar for the start. 5 steps, weave on the left lane, open."}
 {"n":717,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east mouth. weave left open. 6 steps. The rebar stays for the start."}
+{"n":718,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the pier. Nobody past the east mouth. We start in 7 steps. Weave on the left lane, open."}
+{"n":719,"kind":"place","name":"the pier east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier east mouth. Bess keeps the rebar for the start. 8 steps, weave on the left lane, open."}
+{"n":720,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east mouth. weave left open. 2 steps. The rebar stays for the start."}
