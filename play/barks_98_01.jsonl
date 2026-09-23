@@ -729,3 +729,6 @@
 {"n":729,"kind":"place","name":"Kessler alley north curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley north curb. Nia keeps the plywood for the start. 4 steps, weave on the left lane, open."}
 {"n":730,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north curb. weave left open. 5 steps. The plywood stays for the start."}
 {"n":731,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Kessler alley. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
+{"n":732,"kind":"place","name":"Kessler alley north curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley north curb. Ivo keeps the plywood for the start. 7 steps, weave on the left lane, open."}
+{"n":733,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north curb. weave left open. 8 steps. The plywood stays for the start."}
+{"n":734,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Kessler alley. Nobody past the north curb. We start in 2 steps. Weave on the left lane, open."}
