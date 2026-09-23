@@ -139,3 +139,6 @@
 {"n":139,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north curb. Bess keeps the awning for the start. 7 steps, weave on the left lane, open."}
 {"n":140,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north curb. weave left open. 8 steps. The awning stays for the start."}
 {"n":141,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Last Light. Nobody past the north curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":142,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north curb. Matt keeps the awning for the start. 3 steps, weave on the left lane, open."}
+{"n":143,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north curb. weave left open. 4 steps. The awning stays for the start."}
+{"n":144,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the awning at Last Light. Nobody past the north curb. We start in 5 steps. Weave on the left lane, open."}
