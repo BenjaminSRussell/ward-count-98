@@ -487,3 +487,6 @@
 {"n":487,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south curb. weave left open. 4 steps. The lamp stays for the start."}
 {"n":488,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Last Light. Nobody past the south curb. We start in 5 steps. Weave on the left lane, open."}
 {"n":489,"kind":"place","name":"Last Light south curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light south curb. Nia keeps the lamp for the start. 6 steps, weave on the left lane, open."}
+{"n":490,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south curb. weave left open. 7 steps. The lamp stays for the start."}
+{"n":491,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Last Light. Nobody past the south curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":492,"kind":"place","name":"Last Light south curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light south curb. Ivo keeps the lamp for the start. 2 steps, weave on the left lane, open."}
