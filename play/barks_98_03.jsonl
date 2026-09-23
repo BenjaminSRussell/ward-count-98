@@ -712,3 +712,6 @@
 {"n":712,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock north curb. Ivo keeps the radio coil for the start. 6 steps, weave on the left lane, open."}
 {"n":713,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north curb. weave left open. 7 steps. The radio coil stays for the start."}
 {"n":714,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Drydock. Nobody past the north curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":715,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock north curb. Bess keeps the radio coil for the start. 2 steps, weave on the left lane, open."}
+{"n":716,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north curb. weave left open. 3 steps. The radio coil stays for the start."}
+{"n":717,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at High line. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
