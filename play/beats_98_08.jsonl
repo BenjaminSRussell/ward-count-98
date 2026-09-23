@@ -409,3 +409,6 @@
 {"n":409,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Drydock. Nobody past the east mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":410,"kind":"place","name":"Drydock east mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock east mouth. Matt keeps the crate for the start. 7 steps, weave on the left lane, open."}
 {"n":411,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east mouth. weave left open. 8 steps. The crate stays for the start."}
+{"n":412,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Drydock. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":413,"kind":"place","name":"Drydock east mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock east mouth. Nia keeps the crate for the start. 3 steps, weave on the left lane, open."}
+{"n":414,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east mouth. weave left open. 4 steps. The crate stays for the start."}
