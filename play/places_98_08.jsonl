@@ -282,3 +282,6 @@
 {"n":282,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east mouth. weave left open. 5 steps. The crate stays for the start."}
 {"n":283,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Kessler alley. Nobody past the east mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":284,"kind":"place","name":"Kessler alley east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley east mouth. Ivo keeps the crate for the start. 7 steps, weave on the left lane, open."}
+{"n":285,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east mouth. weave left open. 8 steps. The crate stays for the start."}
+{"n":286,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Kessler alley. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":287,"kind":"place","name":"Kessler alley east mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley east mouth. Bess keeps the crate for the start. 3 steps, weave on the left lane, open."}
