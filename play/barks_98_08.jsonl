@@ -731,3 +731,6 @@
 {"n":731,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof east mouth. Bess keeps the rebar for the start. 6 steps, weave on the left lane, open."}
 {"n":732,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east mouth. weave left open. 7 steps. The rebar stays for the start."}
 {"n":733,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rebar at Switchyard. Nobody past the east mouth. We start in 8 steps. Weave on the left lane, open."}
+{"n":734,"kind":"place","name":"Switchyard east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard east mouth. Matt keeps the rebar for the start. 2 steps, weave on the left lane, open."}
+{"n":735,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east mouth. weave left open. 3 steps. The rebar stays for the start."}
+{"n":736,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Switchyard. Nobody past the east mouth. We start in 4 steps. Weave on the left lane, open."}
