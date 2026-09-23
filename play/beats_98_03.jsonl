@@ -378,3 +378,6 @@
 {"n":378,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Drydock. Nobody past the north curb. We start in 8 steps. Weave on the left lane, open."}
 {"n":379,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock north curb. Bess keeps the drum for the start. 2 steps, weave on the left lane, open."}
 {"n":380,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north curb. weave left open. 3 steps. The drum stays for the start."}
+{"n":381,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at High line. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":382,"kind":"place","name":"High line north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line north curb. Matt keeps the drum for the start. 5 steps, weave on the left lane, open."}
+{"n":383,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north curb. weave left open. 6 steps. The drum stays for the start."}
