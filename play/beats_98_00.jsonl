@@ -576,3 +576,6 @@
 {"n":576,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Stockyard fence. Nobody past the east curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":577,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence east curb. Nia keeps the rebar for the start. 7 steps, weave on the left lane, open."}
 {"n":578,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east curb. weave left open. 8 steps. The rebar stays for the start."}
+{"n":579,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Stockyard fence. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":580,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence east curb. Ivo keeps the rebar for the start. 3 steps, weave on the left lane, open."}
+{"n":581,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east curb. weave left open. 4 steps. The rebar stays for the start."}
