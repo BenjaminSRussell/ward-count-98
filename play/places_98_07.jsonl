@@ -757,3 +757,6 @@
 {"n":757,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west mouth. weave left open. 5 steps. The radio coil stays for the start."}
 {"n":758,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at High line. Nobody past the west mouth. We start in 6 steps. Weave on the left lane, open."}
 {"n":759,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line west mouth. Bess keeps the radio coil for the start. 7 steps, weave on the left lane, open."}
+{"n":760,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west mouth. weave left open. 8 steps. The radio coil stays for the start."}
+{"n":761,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Ward gate. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
+{"n":762,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate east mouth. Matt keeps the plywood for the start. 3 steps, weave on the left lane, open."}
