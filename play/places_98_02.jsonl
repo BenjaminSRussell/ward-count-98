@@ -192,3 +192,6 @@
 {"n":192,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north curb. weave left open. 5 steps. The barrel stays for the start."}
 {"n":193,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Drydock. Nobody past the north curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":194,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock north curb. Matt keeps the barrel for the start. 7 steps, weave on the left lane, open."}
+{"n":195,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north curb. weave left open. 8 steps. The barrel stays for the start."}
+{"n":196,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Drydock. Nobody past the north curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":197,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north curb. Nia keeps the barrel for the start. 3 steps, weave on the left lane, open."}
