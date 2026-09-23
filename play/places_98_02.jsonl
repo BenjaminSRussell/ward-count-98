@@ -39,3 +39,6 @@
 {"n":39,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north curb. weave left open. 6 steps. The hydrant stays for the start."}
 {"n":40,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at High line. Nobody past the north curb. We start in 7 steps. Weave on the left lane, open."}
 {"n":41,"kind":"place","name":"High line north curb","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line north curb. Nia keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
+{"n":42,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north curb. weave left open. 2 steps. The hydrant stays for the start."}
+{"n":43,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at High line. Nobody past the north curb. We start in 3 steps. Weave on the left lane, open."}
+{"n":44,"kind":"place","name":"High line north curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line north curb. Ivo keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
