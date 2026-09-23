@@ -300,3 +300,6 @@
 {"n":300,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north curb. weave left open. 8 steps. The crate stays for the start."}
 {"n":301,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Last Light. Nobody past the north curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":302,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north curb. Matt keeps the crate for the start. 3 steps, weave on the left lane, open."}
+{"n":303,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north curb. weave left open. 4 steps. The crate stays for the start."}
+{"n":304,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Last Light. Nobody past the north curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":305,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light north curb. Nia keeps the crate for the start. 6 steps, weave on the left lane, open."}
