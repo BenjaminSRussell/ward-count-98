@@ -919,3 +919,6 @@
 {"n":919,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence east curb. Bess keeps the shutter for the start. 6 steps, weave on the left lane, open."}
 {"n":920,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east curb. weave left open. 7 steps. The shutter stays for the start."}
 {"n":921,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Mall court. Nobody past the east curb. We start in 8 steps. Weave on the left lane, open."}
+{"n":922,"kind":"place","name":"Mall court east curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court east curb. Matt keeps the shutter for the start. 2 steps, weave on the left lane, open."}
+{"n":923,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east curb. weave left open. 3 steps. The shutter stays for the start."}
+{"n":924,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Mall court. Nobody past the east curb. We start in 4 steps. Weave on the left lane, open."}
