@@ -277,3 +277,6 @@
 {"n":277,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Kessler alley. Nobody past the east mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":278,"kind":"place","name":"Kessler alley east mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley east mouth. Matt keeps the crate for the start. 8 steps, weave on the left lane, open."}
 {"n":279,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east mouth. weave left open. 2 steps. The crate stays for the start."}
+{"n":280,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Kessler alley. Nobody past the east mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":281,"kind":"place","name":"Kessler alley east mouth","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Kessler alley east mouth. Nia keeps the crate for the start. 4 steps, weave on the left lane, open."}
+{"n":282,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east mouth. weave left open. 5 steps. The crate stays for the start."}
