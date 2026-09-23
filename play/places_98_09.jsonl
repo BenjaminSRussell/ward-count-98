@@ -272,3 +272,6 @@
 {"n":272,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. weave left open. 8 steps. The awning stays for the start."}
 {"n":273,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Ward gate. Nobody past the east mouth. We start in 2 steps. Weave on the left lane, open."}
 {"n":274,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east mouth. Matt keeps the drum for the start. 3 steps, weave on the left lane, open."}
+{"n":275,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east mouth. weave left open. 4 steps. The drum stays for the start."}
+{"n":276,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Ward gate. Nobody past the east mouth. We start in 5 steps. Weave on the left lane, open."}
+{"n":277,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate east mouth. Nia keeps the drum for the start. 6 steps, weave on the left lane, open."}
