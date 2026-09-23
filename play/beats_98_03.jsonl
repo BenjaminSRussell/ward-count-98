@@ -63,3 +63,6 @@
 {"n":63,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Ward gate. Nobody past the north curb. We start in 8 steps. Weave on the left lane, open."}
 {"n":64,"kind":"place","name":"Ward gate north curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate north curb. Ivo keeps the awning for the start. 2 steps, weave on the left lane, open."}
 {"n":65,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north curb. weave left open. 3 steps. The awning stays for the start."}
+{"n":66,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Ward gate. Nobody past the north curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":67,"kind":"place","name":"Ward gate north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate north curb. Bess keeps the awning for the start. 5 steps, weave on the left lane, open."}
+{"n":68,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north curb. weave left open. 6 steps. The awning stays for the start."}
