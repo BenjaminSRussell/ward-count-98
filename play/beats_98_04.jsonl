@@ -323,3 +323,6 @@
 {"n":323,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Last Light. Nobody past the south curb. We start in 8 steps. Weave on the left lane, open."}
 {"n":324,"kind":"place","name":"Last Light south curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light south curb. Ivo keeps the crate for the start. 2 steps, weave on the left lane, open."}
 {"n":325,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south curb. weave left open. 3 steps. The crate stays for the start."}
+{"n":326,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Last Light. Nobody past the south curb. We start in 4 steps. Weave on the left lane, open."}
+{"n":327,"kind":"place","name":"Last Light south curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light south curb. Bess keeps the crate for the start. 5 steps, weave on the left lane, open."}
+{"n":328,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south curb. weave left open. 6 steps. The crate stays for the start."}
