@@ -977,3 +977,6 @@
 {"n":977,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north mouth. weave left open. 6 steps. The hydrant stays for the start."}
 {"n":978,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at the Lot. Nobody past the north mouth. We start in 7 steps. Weave on the left lane, open."}
 {"n":979,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north mouth. Bess keeps the hydrant for the start. 8 steps, weave on the left lane, open."}
+{"n":980,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north mouth. weave left open. 2 steps. The hydrant stays for the start."}
+{"n":981,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the north mouth. We start in 3 steps. Weave on the left lane, open."}
+{"n":982,"kind":"place","name":"Stockyard fence north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north mouth. Matt keeps the hydrant for the start. 4 steps, weave on the left lane, open."}
