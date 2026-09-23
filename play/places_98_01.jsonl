@@ -229,3 +229,6 @@
 {"n":229,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east curb. weave left open. 8 steps. The drum stays for the start."}
 {"n":230,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Kessler alley. Nobody past the east curb. We start in 2 steps. Weave on the left lane, open."}
 {"n":231,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east curb. Bess keeps the drum for the start. 3 steps, weave on the left lane, open."}
+{"n":232,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east curb. weave left open. 4 steps. The drum stays for the start."}
+{"n":233,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at the Lot. Nobody past the east curb. We start in 5 steps. Weave on the left lane, open."}
+{"n":234,"kind":"place","name":"the Lot east curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot east curb. Matt keeps the drum for the start. 6 steps, weave on the left lane, open."}
