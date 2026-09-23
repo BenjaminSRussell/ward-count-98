@@ -587,3 +587,6 @@
 {"n":587,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Kessler alley. Nobody past the south curb. We start in 6 steps. Weave on the left lane, open."}
 {"n":588,"kind":"place","name":"Kessler alley south curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley south curb. Ivo keeps the rebar for the start. 7 steps, weave on the left lane, open."}
 {"n":589,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south curb. weave left open. 8 steps. The rebar stays for the start."}
+{"n":590,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Kessler alley. Nobody past the south curb. We start in 2 steps. Weave on the left lane, open."}
+{"n":591,"kind":"place","name":"Kessler alley south curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley south curb. Bess keeps the rebar for the start. 3 steps, weave on the left lane, open."}
+{"n":592,"kind":"beat","name":"weave left open","approach":"weave","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south curb. weave left open. 4 steps. The rebar stays for the start."}
